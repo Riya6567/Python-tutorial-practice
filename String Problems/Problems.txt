@@ -1,0 +1,21 @@
+# Level 1: Basic String Operations
+1. Length of String: 
+    Write a program that takes a string input from the user and prints the total number of characters present in the string.
+2. First and Last Character
+    Write a program that prints the first and last character of a given string.
+3. Reverse a String
+    Write a program to reverse a string without using built-in reverse functions.
+4. Uppercase and Lowercase Conversion
+    Write a program that converts all characters of a string into uppercase and lowercase separately.
+5. Count Total Vowels
+    Write a program that counts how many vowels (a, e, i, o, u) are present in a given string.
+6. Count Total Consonants
+    Write a program that counts the number of consonants in a string.
+7. Check Palindrome
+    Write a program to check whether a given string is a palindrome (same forward and backward).
+8. Print Even Index Characters
+    Write a program that prints characters present at even index positions in a string.
+9. Print Odd Index Characters
+    Write a program that prints characters present at odd index positions in a string.
+10. Remove Spaces from String
+    Write a program that removes all spaces from a string entered by the user.
