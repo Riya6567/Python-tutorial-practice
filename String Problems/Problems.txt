@@ -1,4 +1,4 @@
-# Level 1: Basic String Operations
+Level 1: Basic String Operations
 1. Length of String: 
     Write a program that takes a string input from the user and prints the total number of characters present in the string.
 2. First and Last Character
